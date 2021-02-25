@@ -8,6 +8,13 @@
 
 This project is to backtest different trading strategies applying different approaches from the Modern Portfolio Tehory (MPT) in `Python 3`.
 
+The strategies backtested are:
+* The Optimal Markowitz Portfolio;
+* The Global Minimum Variance Portfolio;
+* The Risk-Parity Portfolio;
+* The Equally Weighted Portfolio
+
+
 The ETFs considered are:
 * EEM: iShares MSCI Emerging Markets ETF 
 * EMLC: VanEck Vectors J.P. Morgan EM Local Currency Bond ETF
@@ -172,8 +179,7 @@ months_training_set = 12 * 5
 ```
 
 # Results
-
-
+![alt text](“https://github.com/bottama/trading-strategy-backtest/blob/main/backtest_plot.png?raw=true”>)
 
 # Supported versions
 This configuration has been tested against Python 3.8
