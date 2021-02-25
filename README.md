@@ -179,7 +179,7 @@ months_training_set = 12 * 5
 ```
 
 # Results
-![alt text](“https://github.com/bottama/trading-strategy-backtest/blob/main/backtest_plot.png?raw=true”>)
+![](“https://github.com/bottama/trading-strategy-backtest/blob/main/backtest_plot.png?raw=true")
 
 # Supported versions
 This configuration has been tested against Python 3.8
