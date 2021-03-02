@@ -9,10 +9,10 @@
 This project is to backtest different trading strategies applying different approaches from the Modern Portfolio Tehory (MPT) in `Python 3`.
 
 The strategies backtested are:
-* (#Mean-variance portfolio)[The Optimal Markowitz Portfolio];
-* (#Minimum variance portfolio)[The Global Minimum Variance Portfolio];
-* (#Risk parity portfolio)[The Risk-Parity Portfolio];
-* (#Equally weighted portfolio)[The Equally Weighted Portfolio]
+* [The Optimal Markowitz Portfolio](#Mean-variance portfolio);
+* [The Global Minimum Variance Portfolio](#Minimum variance portfolio);
+* [The Risk-Parity Portfolio](#Risk parity portfolio);
+* [The Equally Weighted Portfolio](#Equally weighted portfolio)
 
 
 The ETFs considered are:
